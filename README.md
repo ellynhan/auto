@@ -1,0 +1,2 @@
+# auto
+make something automatic
